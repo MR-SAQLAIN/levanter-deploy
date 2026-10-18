@@ -16,6 +16,14 @@
 
 ### [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-SAQLAIN/levanter-deploy)
 
+### 2️⃣VPS or PC (Ubuntu)
+
+**Quick install:**
+
+```sh
+bash <(curl -fsSL http://bit.ly/43JqREw)
+```
+
 
 >
 🧠 DEVELOPER NOTICE
