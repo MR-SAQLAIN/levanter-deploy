@@ -101,7 +101,7 @@ please visit our official website.
 
 ---
 
-<h2>🧠 DEVELOPER NOTICE</h2>
+<h2 align="center"🧠 DEVELOPER NOTICE</h2>
 
 
 </h2>
@@ -134,7 +134,7 @@ Inspired by the original work of <strong>Balleys</strong>, and enhanced by the c
 
 ---
 
-## 📝 LICENSE
+<h2 align="center"📝 LICENSE</h2>
 
 <div align="center" style="background-color:#101010; border:2px solid #888888; border-radius:10px; padding:15px; box-shadow:0 0 5px #666666;">
 
