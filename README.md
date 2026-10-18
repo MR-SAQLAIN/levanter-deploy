@@ -1,7 +1,7 @@
-<h1 align="center" style="font-family: Orbitron, sans-serif; font-size: 42px; color: #00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 25px #00FFFF;">𝐌𝐑 𝐒𝐀𝐐𝐋𝐀𝐈𝐍🔝🖤</h1>
+<h1 align="center" style="font-family: Orbitron, sans-serif; font-size: 42px; color: #00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 25px #00FFFF;">𝐌𝐑 𝐑𝐀𝐙𝐙𝐀𝐐🔝🖤</h1>
 ‎
 ‎<p align="center">
-‎  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=LEVANTER+WHATSAPP+BOT;POWERED-BY+MR+SAQLAIN+HACKER" alt="Typing SVG"/>
+‎  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=LEVANTER+WHATSAPP+BOT;POWERED-BY+MR+RAZZAQ+HACKER" alt="Typing SVG"/>
 ‎</p>
 ‎
 
@@ -21,7 +21,7 @@
 Deploy your bot easily using Heroku.
 </p>
 
-<a href="https://heroku.com/deploy?template=https://github.com/MR-SAQLAIN/levanter-deploy">
+<a href="https://heroku.com/deploy?template=https://github.com/MR-RAZZAQ/levanter-deploy">
 <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
 </a>
 
@@ -105,7 +105,7 @@ please visit our official website.
 <h3> 👑 CREATOR 👑</h3>
 
 <p>
-<strong>🎩 𝐌𝐑 𝐒𝐀𝐐𝐋𝐀𝐈𝐍 🎩</strong>
+<strong>🎩 𝐌𝐑 𝐑𝐀𝐙𝐙𝐀𝐐🎩</strong>
 <br>
 <sub>Founder & Creator</sub>
 </p>
@@ -115,7 +115,7 @@ please visit our official website.
 <h3>🤝 TEAM MEMBERS 🤝</h3>
 
 <p>
-<strong> ⚡𝐒𝐀𝐀𝐃 𝐌𝐀𝐋𝐈𝐊⚡</strong>
+<strong> ⚡𝐌𝐑 𝐒𝐀𝐐𝐋𝐀𝐈𝐍⚡</strong>
 </p>
 
 <p>
@@ -123,7 +123,7 @@ please visit our official website.
 </p>
 
 <p>
-<strong> ⚡𝐇𝐀𝐒𝐍𝐀𝐈𝐍 𝐊𝐇𝐀𝐍⚡</strong>
+<strong> ⚡𝐒𝐀𝐀𝐃 𝐌𝐀𝐋𝐈𝐊⚡</strong>
 </p>
 
 <br>
@@ -187,6 +187,6 @@ You are free to use, modify, and distribute it under the terms of this license.
 <h3 align="center">🙏 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗨𝘀𝗶𝗻𝗴!</h3>
 <p align="center">
   If you like this project, consider giving it a ⭐ on GitHub.<br>
-  Made with ❤️ by <a href="https://github.com/MR-SAQLAIN">MR SAQLAIN</a>
+  Made with ❤️ by <a href="https://github.com/MR-RAZZAQ">MR RAZZAQ</a>
 </p>
 
