@@ -73,10 +73,10 @@ please visit our official website.
 
 <div align="center" style="background-color:#0d1117; border:2px dashed #ff003c; border-radius:12px; padding:20px;">
 
-<h3>👑 CREATOR</h3>
+<h3> CREATOR 👑</h3>
 
 <p>
-<strong>🔥 MR SAQLAIN</strong>
+<strong> 𝐌𝐑 𝐒𝐀𝐐𝐋𝐀𝐈𝐍🔥</strong>
 <br>
 <sub>Founder & Creator</sub>
 </p>
@@ -86,11 +86,11 @@ please visit our official website.
 <h3>🤝 TEAM MEMBERS</h3>
 
 <p>
-<strong>⚡ SAAD MALIK</strong>
+<strong> 𝐒𝐀𝐀𝐃 𝐌𝐀𝐋𝐈𝐊⚡</strong>
 </p>
 
 <p>
-<strong>⚡ HASNAIN KHAN</strong>
+<strong> 𝐇𝐀𝐒𝐍𝐀𝐈𝐍 𝐊𝐇𝐀𝐍⚡</strong>
 </p>
 
 <br>
@@ -101,7 +101,7 @@ please visit our official website.
 
 ---
 
-<h2 align="center">🧠 DEVELOPER NOTICE</h2>
+<h2 align="center">🧠 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 𝗡𝗢𝗧𝗜𝗖𝗘</h2>
 
 
 </h2>
@@ -118,7 +118,7 @@ please visit our official website.
 
 ---
 
-<h2 align="center">📜 DISCLAIMER</h2>
+<h2 align="center">📜 𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥</h2>
 
 <div align="center" style="background-color:#0f0f0f; border:2px solid #00ffff; border-radius:10px; padding:20px; box-shadow:0 0 10px #00ffff;">
 
@@ -134,7 +134,7 @@ Inspired by the original work of <strong>Balleys</strong>, and enhanced by the c
 
 ---
 
-<h2 align="center">📝 LICENSE</h2>
+<h2 align="center">📝 𝗟𝗜𝗖𝗘𝗡𝗦𝗘</h2>
 
 <div align="center" style="background-color:#101010; border:2px solid #888888; border-radius:10px; padding:15px; box-shadow:0 0 5px #666666;">
 
@@ -151,7 +151,7 @@ You are free to use, modify, and distribute it under the terms of this license.
 
 ---
 
-<h3 align="center">🙏 Thanks for using!</h3>
+<h3 align="center">🙏 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗨𝘀𝗶𝗻𝗴!</h3>
 <p align="center">
   If you like this project, consider giving it a ⭐ on GitHub.<br>
   Made with ❤️ by <a href="https://github.com/MR-SAQLAIN">MR SAQLAIN</a>
