@@ -73,7 +73,7 @@ please visit our official website.
 
 <div align="center" style="background-color:#0d1117; border:2px dashed #ff003c; border-radius:12px; padding:20px;">
 
-<h3> CREATOR 👑</h3>
+<h3> 👑 CREATOR 👑</h3>
 
 <p>
 <strong> 𝐌𝐑 𝐒𝐀𝐐𝐋𝐀𝐈𝐍🔥</strong>
@@ -83,7 +83,7 @@ please visit our official website.
 
 <hr>
 
-<h3>🤝 TEAM MEMBERS</h3>
+<h3>🤝 TEAM MEMBERS 🤝</h3>
 
 <p>
 <strong> 𝐒𝐀𝐀𝐃 𝐌𝐀𝐋𝐈𝐊⚡</strong>
