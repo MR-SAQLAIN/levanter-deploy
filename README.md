@@ -6,7 +6,9 @@
 ‎
 
 
-<img src="https://i.imgur.com/Kuh9nt7.jpeg" height="90" width="100%">
+<p align="center">
+  <img src="https://i.imgur.com/Kuh9nt7.jpeg" width="100%">
+</p>
 
 
 
