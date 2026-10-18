@@ -69,7 +69,7 @@ please visit our official website.
 </div>
 ---
 
-<h2 align="center">👥 OUR TEAM</h2>
+<h2 align="center"><strong>👥 OUR TEAM</strong></h2>
 
 <div align="center" style="background-color:#0d1117; border:2px dashed #ff003c; border-radius:12px; padding:20px;">
 
