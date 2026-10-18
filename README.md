@@ -27,7 +27,7 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
 
 ---
 
-##🧠 DEVELOPER NOTICE
+<h2>🧠 DEVELOPER NOTICE</h2>
 
 
 </h2>
