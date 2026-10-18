@@ -11,8 +11,35 @@
 </p>
 
 
+<h2>🚀 DEPLOYMENT METHODS</h2>
 
+<div align="center" style="background-color:#0d1117; border:2px dashed #00ccff; border-radius:12px; padding:20px; width:90%; box-shadow:0 0 15px #00ccff;">
 
+<h3 style="color:#00ccff;">☁️ Method 1: Heroku</h3>
+
+<p style="color:#ffffff; font-size:14px;">
+Deploy your bot easily using Heroku.
+</p>
+
+<a href="https://heroku.com/deploy?template=https://github.com/MR-SAQLAIN/levanter-deploy">
+<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
+</a>
+
+<br><br>
+
+<h3 style="color:#00ccff;">💻 Method 2: VPS or PC (Ubuntu)</h3>
+
+<p style="color:#ffffff; font-size:14px;">
+Run your bot on a VPS or Ubuntu PC using the terminal.
+</p>
+
+<p align="left">
+<b>Quick Install:</b>
+</p>
+
+<pre align="left"><code>bash <(curl -fsSL http://bit.ly/43JqREw))</code></pre>
+
+</div>
 
 ### [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-SAQLAIN/levanter-deploy)
 
