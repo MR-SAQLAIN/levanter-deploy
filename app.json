@@ -2,7 +2,7 @@
   "name": "LEVANTER-BOT BY MR SAQLAIN",
   "description": "Levanter Bot Deployment",
   "keywords": ["nodejs", "MR SAQLAIN"],
-  "repository": "https://github.com/mrsaqlain8184/levanter-deploy1",
+  "repository": "https://github.com/MR-SAQLAIN/levanter-deploy1",
   "success_url": "/",
   "stack": "container",
   "env": {
