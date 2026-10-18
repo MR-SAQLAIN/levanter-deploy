@@ -11,7 +11,7 @@
 </p>
 
 
-<h2>🚀 DEPLOYMENT METHODS</h2>
+<h2 align="center>🚀 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
 
 <div align="center" style="background-color:#0d1117; border:2px dashed #00ccff; border-radius:12px; padding:20px; width:90%; box-shadow:0 0 15px #00ccff;">
 
@@ -43,7 +43,7 @@ Run your bot on a VPS or Ubuntu PC using the terminal.
 
 ---
 
-<h2 align="center">⚙️ EXTRA PLUGINS & BOT SETTINGS</h2>
+<h2 align="center">⚙️ 𝗘𝗫𝗧𝗥𝗔 𝗣𝗟𝗨𝗚𝗜𝗡𝗦 & 𝗕𝗢𝗧 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦</h2>
 
 <div align="center" style="background-color:#0d1117; border:2px dashed #00ccff; border-radius:12px; padding:20px;">
 
@@ -69,7 +69,7 @@ please visit our official website.
 </div>
 ---
 
-<h2 align="center"><strong>👥 OUR TEAM</strong></h2>
+<h2 align="center"><strong>👥 𝗢𝗨𝗥 𝗧𝗘𝗔𝗠</strong></h2>
 
 <div align="center" style="background-color:#0d1117; border:2px dashed #ff003c; border-radius:12px; padding:20px;">
 
