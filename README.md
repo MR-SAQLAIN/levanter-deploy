@@ -40,7 +40,7 @@ Run your bot on a VPS or Ubuntu PC using the terminal.
 <pre align="left"><code>bash <(curl -fsSL http://bit.ly/43JqREw))</code></pre>
 
 </div>
----
+
 
 <h1 align="center"><b>📱 𝗣𝗔𝗜𝗥 𝗕𝗢𝗧 𝗡𝗨𝗠𝗕𝗘𝗥</b></h1>
 
