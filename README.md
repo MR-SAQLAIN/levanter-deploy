@@ -67,6 +67,37 @@ please visit our official website.
 </p>
 
 </div>
+---
+
+<h2 align="center">👥 OUR TEAM</h2>
+
+<div align="center" style="background-color:#0d1117; border:2px dashed #ff003c; border-radius:12px; padding:20px;">
+
+<h3>👑 CREATOR</h3>
+
+<p>
+<strong>🔥 MR SAQLAIN</strong>
+<br>
+<sub>Founder & Creator</sub>
+</p>
+
+<hr>
+
+<h3>🤝 TEAM MEMBERS</h3>
+
+<p>
+<strong>⚡ SAAD MALIK</strong>
+</p>
+
+<p>
+<strong>⚡ HASNAIN KHAN</strong>
+</p>
+
+<br>
+
+<p>❤️ Together We Build, Together We Grow!</p>
+
+</div>
 
 ---
 
