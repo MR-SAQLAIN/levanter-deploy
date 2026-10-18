@@ -41,6 +41,32 @@ Run your bot on a VPS or Ubuntu PC using the terminal.
 
 </div>
 
+---
+
+<h2 align="center">⚙️ EXTRA PLUGINS & BOT SETTINGS</h2>
+
+<div align="center" style="background-color:#0d1117; border:2px dashed #00ccff; border-radius:12px; padding:20px;">
+
+<h3>🚀 Unlock More Features!</h3>
+
+<p>
+For extra plugins, advanced bot settings, and environment variables (ENV VARS),
+please visit our official website.
+</p>
+
+<a href="https://levanter.site" target="_blank">
+<img src="https://img.shields.io/badge/🌐_VISIT_WEBSITE-levanter.site-00ccff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website">
+</a>
+
+<br><br>
+
+<p>
+✨ Extra Plugins<br>
+⚙️ Bot Configuration<br>
+🔑 Environment Variables (ENV VARS)
+</p>
+
+</div>
 
 ---
 
