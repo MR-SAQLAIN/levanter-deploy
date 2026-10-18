@@ -25,8 +25,10 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
 ```
 
 
->
+
 ##🧠 DEVELOPER NOTICE
+
+
 </h2>
 
 <div align="center" style="background:#0d0d0d; border:2px dashed #ff00ff; border-radius:12px; padding:20px; width:90%; box-shadow:0 0 15px #ff00ff;">
