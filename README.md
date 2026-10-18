@@ -11,7 +11,7 @@
 </p>
 
 
-<h2 align="center>🚀 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
+<h2>🚀 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
 
 <div align="center" style="background-color:#0d1117; border:2px dashed #00ccff; border-radius:12px; padding:20px; width:90%; box-shadow:0 0 15px #00ccff;">
 
