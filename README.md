@@ -118,7 +118,7 @@ please visit our official website.
 
 ---
 
-## 📜 DISCLAIMER
+<h2 align="center">📜 DISCLAIMER</h2>
 
 <div align="center" style="background-color:#0f0f0f; border:2px solid #00ffff; border-radius:10px; padding:20px; box-shadow:0 0 10px #00ffff;">
 
