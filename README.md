@@ -42,7 +42,7 @@ Run your bot on a VPS or Ubuntu PC using the terminal.
 </div>
 ---
 
-<h1 align="center"><b>📱 PAIR BOT NUMBER</b></h1>
+<h1 align="center"><b>📱 𝗣𝗔𝗜𝗥 𝗕𝗢𝗧 𝗡𝗨𝗠𝗕𝗘𝗥</b></h1>
 
 <div align="center">
 
@@ -105,7 +105,7 @@ please visit our official website.
 <h3> 👑 CREATOR 👑</h3>
 
 <p>
-<strong> 𝐌𝐑 𝐒𝐀𝐐𝐋𝐀𝐈𝐍🔥</strong>
+<strong>🎩 𝐌𝐑 𝐒𝐀𝐐𝐋𝐀𝐈𝐍 🎩</strong>
 <br>
 <sub>Founder & Creator</sub>
 </p>
@@ -115,15 +115,15 @@ please visit our official website.
 <h3>🤝 TEAM MEMBERS 🤝</h3>
 
 <p>
-<strong> 𝐒𝐀𝐀𝐃 𝐌𝐀𝐋𝐈𝐊⚡</strong>
+<strong> ⚡𝐒𝐀𝐀𝐃 𝐌𝐀𝐋𝐈𝐊⚡</strong>
 </p>
 
 <p>
-<strong> 𝐌𝐑 𝐑𝐀𝐙𝐙𝐀𝐐⚡</strong>
+<strong> ⚡𝐌𝐑 𝐑𝐀𝐙𝐙𝐀𝐐⚡</strong>
 </p>
 
 <p>
-<strong> 𝐇𝐀𝐒𝐍𝐀𝐈𝐍 𝐊𝐇𝐀𝐍⚡</strong>
+<strong> ⚡𝐇𝐀𝐒𝐍𝐀𝐈𝐍 𝐊𝐇𝐀𝐍⚡</strong>
 </p>
 
 <br>
