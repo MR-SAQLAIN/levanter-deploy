@@ -40,8 +40,37 @@ Run your bot on a VPS or Ubuntu PC using the terminal.
 <pre align="left"><code>bash <(curl -fsSL http://bit.ly/43JqREw))</code></pre>
 
 </div>
+---
+
+<h1 align="center"><b>📱 PAIR BOT NUMBER</b></h1>
+
+<div align="center">
+
+<h3>🔗 Generate Your Session ID</h3>
+
+<p>
+Connect your WhatsApp number to the bot by generating your Session ID.
+</p>
+
+<a href="https://levanter.site/session">
+<img src="https://img.shields.io/badge/🔑_GET_SESSION_ID-CLICK_HERE-00ccff?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Session ID">
+</a>
+
+<br><br>
+
+<p><b>📌 How to Pair:</b></p>
+
+<p>
+1️⃣ Visit the Session ID website.<br>
+2️⃣ Enter your bot's WhatsApp number.<br>
+3️⃣ Follow the instructions to generate your Session ID.<br>
+4️⃣ Copy the Session ID and configure your bot.
+</p>
+
+</div>
 
 ---
+
 
 <h2 align="center">⚙️ 𝗘𝗫𝗧𝗥𝗔 𝗣𝗟𝗨𝗚𝗜𝗡𝗦 & 𝗕𝗢𝗧 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦</h2>
 
