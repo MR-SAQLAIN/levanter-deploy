@@ -30,7 +30,7 @@ Deploy your bot easily using Heroku.
 <h3 style="color:#00ccff;">💻 Method 2: VPS or PC (Ubuntu)</h3>
 
 <p style="color:#ffffff; font-size:14px;">
-Run your bot on a VPS or Ubuntu PC using the terminal.
+Run your Bot on a VPS or Ubuntu PC using the terminal.
 </p>
 
 <p align="left">
