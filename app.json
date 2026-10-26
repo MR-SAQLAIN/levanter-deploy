@@ -14,7 +14,7 @@
     "SUDO": {
       "description": "admin - MR SAQLAIN",
       "required": false,
-      "value": ""
+      "value": "923310256226"
     },
     "PREFIX": {
       "description": "prefix, check for more",
@@ -29,7 +29,7 @@
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "MR SAQLAIN🔝🎩"
+      "value": "𝐌ʀ 𝐒ᴀǫʟᴀɪɴ⚡🕸️"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
