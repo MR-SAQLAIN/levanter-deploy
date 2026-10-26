@@ -122,10 +122,6 @@ please visit our official website.
 <strong> ⚡𝐌𝐑 𝐑𝐀𝐙𝐙𝐀𝐐⚡</strong>
 </p>
 
-<p>
-<strong> ⚡𝐇𝐀𝐒𝐍𝐀𝐈𝐍 𝐊𝐇𝐀𝐍⚡</strong>
-</p>
-
 <br>
 
 <p>❤️ Together We Build, Together We Grow!</p>
