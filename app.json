@@ -29,7 +29,7 @@
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "𝐌ʀ 𝐒ᴀǫʟᴀɪɴ⚡🕸️"
+      "value": "𝐌𝐑 𝐒𝐀𝐐𝐋𝐀𝐈𝐍⚡🕸️"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
